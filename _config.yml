@@ -1,0 +1,14 @@
+layout_spectrum: 0.9273183
+typography_spectrum: 0.3984962
+color:
+  saturation: 0.8033351
+  lightness: 0.5977443
+  brandStrength: 0.974963
+  brandColors:
+    - '#7FABCF'
+    - '#01395D'
+    - '#4C6491'
+    - '#FFFFFF'
+    - '#D7E1F4'
+  rhythmicContrast: 0.3489975
+name: OutInsights.com
