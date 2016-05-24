@@ -1,14 +1,26 @@
-layout_spectrum: 0.9273183
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.3984962
 color:
-  saturation: 0.8033351
-  lightness: 0.5977443
+  saturation: 0.797491
   brandStrength: 0.974963
+  lightness: 0.3028674
   brandColors:
     - '#7FABCF'
     - '#01395D'
     - '#4C6491'
     - '#FFFFFF'
     - '#D7E1F4'
-  rhythmicContrast: 0.3489975
+  rhythmicContrast: 0.5143369
+layout_spectrum: 0.9273183
 name: OutInsights.com
